@@ -10,13 +10,13 @@ This work focuses on analyzing data from the photomultiplier tube (PMT) and ADC 
 
 Based on the initial data exploration, two main hypotheses were tested:
 
-1. Hypothesis 1: Increasing the ns value would lead to a decrease in the number of non-zero ADC counts.
+Hypothesis 1: Increasing the ns value would lead to a decrease in the number of non-zero ADC counts.
 
 - Reasoning: The initial expectation was that an increase in ns values might lead to more data being read, but our hypothesis posited a counterintuitive decrease in non-zero counts.
 
 - Finding: As shown in the initial histograms presented, this hypothesis was confirmed.
 
-2. Hypothesis 2: Increasing the ns value would result in higher non-zero ADC values.
+Hypothesis 2: Increasing the ns value would result in higher non-zero ADC values.
 
 - Reasoning: The increase in ns values corresponds to a longer data acquisition window. This is expected to increase the integral of the signal read by the ADC, resulting in higher measured values.
 
