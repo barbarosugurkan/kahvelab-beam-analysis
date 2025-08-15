@@ -1,4 +1,4 @@
-# ADC Data Analysis: Initial Study
+# 2025-05-15 ADC Data Analysis: Initial Study
 
 This repository documents my first data analysis project at KAHVELab. The primary goal of this study was to analyze over 200 data points to understand the relationship between PMT (Photomultiplier Tube) squares and ADC (Analog-to-Digital Converter) values. LLM's were used for the learning features in libraries like matplotlib.
 
