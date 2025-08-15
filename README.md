@@ -1,4 +1,4 @@
-# kahvelab-beam-analysis
+# kahvelab-journal
 
 This repository contains the data analysis scripts, Jupyter Notebooks, and presentation materials for the beam characterization experiments conducted at KAHVELab. The project aims to analyze and interpret data from our experimental setup.
 
