@@ -11,5 +11,6 @@ The main purpose of this initial code and analysis was to:
 3.  Visualize data using histograms to identify patterns and anomalies.
 
 The following image illustrates the PMT used in the experiment:
+
 <img width="437" height="213" alt="resim" src="https://github.com/user-attachments/assets/cfc97536-37ea-42df-ab57-f789d9fdd7f5" />
 
